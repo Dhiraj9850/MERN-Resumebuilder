@@ -1,0 +1,43 @@
+h3{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.logincontainer{
+    width: 40%;
+    margin: 30px auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 7px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.name,.email,.password{
+    margin-left: 15px;
+    padding: 7px;
+    display: flex;
+    flex-direction: column;
+}
+input{
+    width: 90%;
+    outline: none;
+    padding: 3px;
+    border: 1px solid rgb(189, 187, 187);
+}
+label{
+    font-weight: 600;
+    color: rgb(77, 75, 75);
+}
+ #loginbtn{
+   margin-left: 43%;
+   margin-top: 20px;
+} 
+.create{
+    display: flex;
+    color: rgb(165, 106, 221);
+    border: none;
+    margin: 5px auto;
+    font-size: 17px;
+    font-weight: 500;
+    background-color: white;
+   }
+

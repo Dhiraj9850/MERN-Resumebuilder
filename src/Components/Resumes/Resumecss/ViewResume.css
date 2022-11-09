@@ -1,0 +1,57 @@
+.Resume-container{
+    width: 95vw;
+    height: auto;
+    border: 1px solid black;
+    margin: auto;
+    background-color: rgb(49, 47, 47);
+}
+.resume-body{
+    width: 75vw;
+    margin: auto;
+    padding: 10px;
+    background-color: white;
+}
+.resumeHeader{
+    display: flex;
+    width: 100%;
+    margin-top: 10px;
+}
+.studentNameField{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+   
+}
+.education,.work,.project{
+    display: flex;
+    flex-direction: column;
+}
+h4{
+    color: rgb(11, 74, 74);
+    padding: 10px;
+    border: 1px dotted gray;
+    font-size: 22px;
+    font-weight: 600;
+}
+.attribute{
+    background-color: #ccc;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    width: 98%;
+    font-size: 15px;
+}
+.table{
+    border: 1px solid rgb(55, 54, 54);
+    margin-top: 20px;
+    width: 85%;
+    margin: auto;
+}
+
+.personal{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    
+}

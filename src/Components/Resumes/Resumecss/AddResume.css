@@ -1,0 +1,16 @@
+.add-resume{
+    width: 80%;
+    /* border: 1px solid  green; */
+    margin: 20px auto;
+}
+.address,.projectdesc{
+    width: 60%;
+    margin-left: 30px;
+    border: 1px solid #ccc;
+    outline: none;
+    resize: none;
+}
+.addlabel{
+    margin-left: 30px;
+    margin-top: 10px;
+}
